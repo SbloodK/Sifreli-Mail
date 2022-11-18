@@ -1,0 +1,14 @@
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\bin\Debug\Şifreli Mail Sent.exe
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\bin\Debug\Şifreli Mail Sent.pdb
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli_Mail_Sent.Form1.resources
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli_Mail_Sent.Properties.Resources.resources
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.csproj.GenerateResource.Cache
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.exe
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.pdb
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli_Mail_Sent.Mail_Gönder_Şifre_Çözümle.resources
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli_Mail_Sent.Mail_Gönder.resources
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli_Mail_Sent.ŞifreliMetniÇozme.resources
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio Projeler\Şifreli Mail Sent\Şifreli Mail Sent\obj\x86\Debug\Şifreli Mail Sent.csproj.CopyComplete
